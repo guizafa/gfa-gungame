@@ -29,8 +29,6 @@ This application was developed for the fullstack challenge on server SVRP 3.0
 
 The purpose of this challenge was to demonstrate my knowledge in TypeScript.
 
-Challenge delivered on commit [feat(frontend): add CharacterVehicles page](https://github.com/guizafa/gfa-gungame/tree/***)
-
 ## ✅ Work on FiveM GameBuild
 - **1604** Arena War
 - **2060** Los Santos Summer Special
