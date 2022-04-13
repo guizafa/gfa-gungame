@@ -30,9 +30,6 @@ This application was developed for the fullstack challenge on server SVRP 3.0
 The purpose of this challenge was to demonstrate my knowledge in TypeScript.
 
 ## ✅ Work on FiveM GameBuild
-- **1604** Arena War
-- **2060** Los Santos Summer Special
-- **2189** Cayo Perico Heist
 - **2372** Los Santos Tuners
 
 ## 🧰 Dependencies
