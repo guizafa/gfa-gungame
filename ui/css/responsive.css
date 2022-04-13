@@ -1,0 +1,133 @@
+/* Desktop */
+
+@media only screen and (max-width: 3840px) and (min-width: 3441px) {
+    .ct-scoreboard {
+        width: 15%;
+    }
+    .ct-count-death {
+        width: 10%;
+    }
+    #notifications {
+        width: 12%;
+    }
+}
+
+@media only screen and (max-width: 3440px) and (min-width: 2561px) {
+    .ct-scoreboard {
+        width: 15%;
+    }
+    .ct-count-death {
+        width: 10%;
+    }
+    #notifications {
+        width: 15%;
+    }
+}
+
+@media only screen and (max-width: 2560px) and (min-width: 1921px) {
+    .ct-scoreboard {
+        width: 19%;
+    }
+    .ct-count-death {
+        width: 10%;
+    }
+    #notifications {
+        width: 17%;
+    }
+}
+
+@media only screen and (max-width: 1920px) and (min-width: 1681px) {
+    .ct-scoreboard {
+        width: 23%;
+    }
+    .ct-count-death {
+        width: 14%;
+    }
+    #notifications {
+        width: 21%;
+    }
+}
+
+@media only screen and (max-width: 1680px) and (min-width: 1601px) {
+    .ct-scoreboard {
+        width: 23%;
+    }
+    .ct-count-death {
+        width: 14%;
+    }
+    #notifications {
+        width: 24%;
+    }
+}
+
+@media only screen and (max-width: 1600px) and (min-width: 1441px) {
+    .ct-scoreboard {
+        width: 25%;
+    }
+    .ct-count-death {
+        width: 14%;
+    }
+    #notifications {
+        width: 27%;
+    }
+}
+
+@media only screen and (max-width: 1440px) and (min-width: 1367px) {
+    .ct-scoreboard {
+        width: 28%;
+    }
+    .ct-count-death {
+        width: 17%;
+    }
+    #notifications {
+        width: 27%;
+    }
+}
+
+@media only screen and (max-width: 1366px) and (min-width: 1335px) {
+    .ct-scoreboard {
+        width: 28%;
+    }
+    .ct-count-death {
+        width: 17%;
+    }
+    #notifications {
+        width: 30%;
+    }
+}
+
+@media only screen and (max-width: 1334px) and (min-width: 1281px) {
+    .ct-scoreboard {
+        width: 28%;
+    }
+    .ct-count-death {
+        width: 17%;
+    }
+    #notifications {
+        width: 30%;
+    }
+}
+
+@media only screen and (max-width: 1280px) and (min-width: 1025px) {
+    .ct-scoreboard {
+        width: 36%;
+    }
+    .ct-count-death {
+        width: 17%;
+    }
+    #notifications {
+        width: 38%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .ct-scoreboard {
+        width: 39%;
+    }
+    .ct-count-death {
+        width: 17%;
+    }
+    #notifications {
+        width: 40%;
+    }
+}
