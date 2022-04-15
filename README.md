@@ -62,6 +62,10 @@ The purpose of this challenge was to demonstrate my knowledge in TypeScript.
 ```
 ensure gfa-gungame
 ```
+
+## 🕐 Production time
+- 20 hours
+
 ## 👤 Contacts
 - Discord **guizafa#6064**
 - E-mail : **guizafandroid@gmail.com**
